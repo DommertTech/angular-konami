@@ -1,2 +1,3 @@
-# ng-KonamiCode
-Angular Konami Code
+# Angular-Konami
+
+Angular Konami Code. Will add more later
