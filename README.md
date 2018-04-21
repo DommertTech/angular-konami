@@ -9,4 +9,7 @@ When you enter the Konami Code you will active a div, or forward to a new page. 
 You can add other combinations too ;)
 
 
-Preview [http://dommerttech.github.io/angular-konami/]
+### Preview [http://dommerttech.github.io/angular-konami/]
+
+
+Javascript Char Codes (https://www.cambiaresearch.com/articles/15/javascript-char-codes-key-codes)
